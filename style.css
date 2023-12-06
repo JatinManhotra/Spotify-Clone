@@ -15,11 +15,11 @@ body {
   text-decoration: none;
 }
 .aboutme{
-  font-family: cursive, sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   margin:20px 0 0 20px;
 }
 .github{
-  font-family: cursive, sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   margin: 20px 0 0 20px;
   font-size: larger;
 }
