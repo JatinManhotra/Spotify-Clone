@@ -129,3 +129,29 @@ nav ul li {
   transition: opacity 0.4s ease-in;
   padding-right: 10px;
 }
+@media only screen and (max-width: 714px) {
+  .songItem img {
+    width: 38px;
+    margin: 0 10px;
+  }
+  .timestamp{
+    margin: 0 10px;
+  }
+  .songItem span{
+    font-size: small;
+  }
+  .songName{
+    width: 122px;
+    height:32px;
+  }
+  .songInfo{
+    left: 23vw;
+    bottom:58px;
+  }
+  .songInfo img{
+    height: 3vh;
+  }
+  .songInfo span{
+    font-size: small;
+  }
+}
